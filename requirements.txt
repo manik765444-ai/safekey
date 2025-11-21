@@ -1,0 +1,7 @@
+cryptography
+getpass
+hashlib
+hmac
+pycryptodome
+pyperclip
+rich
